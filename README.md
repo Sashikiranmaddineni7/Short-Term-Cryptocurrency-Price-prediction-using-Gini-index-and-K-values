@@ -49,10 +49,10 @@ Additional features like Gini Index and Kolkata Index were derived from this dat
    ```bash
    git clone https://github.com/username/repository.git
 2. Install dependencies:
-    bash
+   ```bash
    pip install -r requirements.txt
 3. Run the notebook or script:
-   bash
+   ```bash
    python main.py
 4. Future Work:
    Expand the dataset to include other cryptocurrencies.
