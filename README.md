@@ -48,3 +48,13 @@ Additional features like Gini Index and Kolkata Index were derived from this dat
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/repository.git
+2. Install dependencies:
+    bash
+   pip install -r requirements.txt
+3. Run the notebook or script:
+   bash
+   python main.py
+4. Future Work:
+   Expand the dataset to include other cryptocurrencies.
+   Explore advanced ML techniques, such as ensemble models or deep learning.
+   Incorporate external factors like macroeconomic indicators and social media sentiment analysis.
